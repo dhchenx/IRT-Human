@@ -2,16 +2,18 @@
 
 ### Introduction
 
-This project hosts our ongoing work about applying infrared thermal imaging on human body parts.
+This project hosts our ongoing work about applying infrared thermal imaging technology on human body parts.
 
-![sample_data/hand-left-front.bmp]
+![hand-left-front](sample_data/hand-left-front.bmp)
 
 ### Goals
 
-1. Provide samples of infrared thermal images for human body
+1. Provide sample data of infrared thermal images for human body
 
-2. Deep learning-based applications on thermal image analysis
+2. Develop deep learning-based applications on thermal image analysis
 
 ### Credits
 
-Dr. Donghua Chen provides this project. Please cite this project for using data and codes here. 
+Author: Donghua Chen
+
+Please cite this project when using our data and codes here. 
